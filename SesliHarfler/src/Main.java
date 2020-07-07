@@ -1,8 +1,8 @@
 public class Main {
 
     public static void main(String[] args) {
-	    char harf = 'o';
-	    char[] inceSesli = {'e','i','ö','ü','E','İ','Ö','Ü'};
+        char harf = 'o';
+        char[] inceSesli = {'e','i','ö','ü','E','İ','Ö','Ü'};
         char[] kalinSesli = {'a','ı','o','u','A','I','O','U'};
         boolean sesliMi = false;
         for (char h1:inceSesli) {
